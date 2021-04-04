@@ -28,7 +28,7 @@ class ConfigClass(object):
     MAIL_USE_SSL = True
     MAIL_USE_TLS = False
     MAIL_USERNAME = 'aisurshr@gmail.com'
-    MAIL_PASSWORD = 'LiveWhatYouLove#2020'
+    MAIL_PASSWORD = 'fdzfwgsvflklufap'
     MAIL_DEFAULT_SENDER = '"MyApp" <noreply@example.com>'
 
     # Flask-User settings
